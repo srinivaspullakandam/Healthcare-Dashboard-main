@@ -13,7 +13,7 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
 
 ## 🌐 Live Demo
 
-[View the live dashboard here!]()
+[View the live dashboard here!](https://healthcare-dashboard-main.vercel.app/)
 
 
 ## 🚀 Getting Started
